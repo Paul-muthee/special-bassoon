@@ -1,0 +1,20 @@
+<span id="sprytextfield2" class="form-group col-lg-6">
+                         <label for="password">Password</label>
+                         <input type="password" name="password" id="password" required placeholder="Enter Password" class="form-control">
+                         <span class="textfieldRequiredMsg">Password is required.</span></span>
+
+
+
+            <span id="sprytextfield1" class="form-group col-lg-6">
+                         <label for="username">Username</label>
+                         <input type="text" name="username" id="username" required placeholder="Enter Username" class="form-control">
+                         <span class="textfieldRequiredMsg">A Password is required.</span></span>
+
+span id="message">
+                        
+                         </span>
+                          <?php
+						 if(isset($failed_login)){$failed_login="Username/password Missmatch";}else{$failed_login="";}
+						 echo $failed_login;
+                         ?>
+<input type="submit" name="login" id="login" value="Signin" class="btn btn-primary">

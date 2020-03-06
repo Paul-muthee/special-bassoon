@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:id_no;datatype:int,name:account_no;datatype:string,name:resident;datatype:string,name:tel_no;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:reg_date;datatype:date,name:gender;datatype:int" />
+	<infoitem key="UD_notify" value="name:id;datatype:int,name:m_to;datatype:string,name:m_from;datatype:string,name:message;datatype:string,name:date;datatype:timestamp,name:status;datatype:int,name:seen;datatype:int" />
+</info>

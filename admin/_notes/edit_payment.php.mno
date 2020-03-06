@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_salary" value="name:id;datatype:int,name:taskname;datatype:blob,name:amount;datatype:int,name:status;datatype:int" />
+	<infoitem key="UD_edit" value="name:id;datatype:int,name:taskname;datatype:blob,name:amount;datatype:int,name:status;datatype:int" />
+</info>

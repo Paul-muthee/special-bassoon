@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_assign_task" value="name:id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:id_no;datatype:int,name:account_no;datatype:int,name:photo;datatype:string,name:resident;datatype:string,name:tel_no;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:reg_date;datatype:timestamp,name:gender;datatype:int,name:task;datatype:int" />
+	<infoitem key="UD_assigned_task" value="name:id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:username;datatype:string,name:date;datatype:timestamp,name:id_no;datatype:int,name:due_date;datatype:date,name:task;datatype:string,name:compete;datatype:int,name:comments;datatype:string,name:complains;datatype:string" />
+</info>

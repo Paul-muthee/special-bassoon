@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_notify" value="name:id;datatype:int,name:m_to;datatype:string,name:m_from;datatype:string,name:message;datatype:string,name:date;datatype:timestamp,name:status;datatype:int" />
+</info>

@@ -1,0 +1,66 @@
+@charset "utf-8";
+#companyname{
+	color:#F00;
+	font-size:26px;}
+	
+#message{
+	color: #F00;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	text-transform: capitalize;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: normal;
+	}
+#staffLogin{
+	color:#F00;
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	text-transform:capitalize;
+	font-size:16px}
+#adminLogin{
+	color:#60C;
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	text-transform:capitalize;
+	font-size:16px}
+#profile{
+	color:#F00;
+	text-align:center;
+	text-decoration:underline;
+	font-family:"Comic Sans MS", cursive;
+	text-transform:capitalize;
+	font-size:20px;}
+#staff_head{color:#F00}
+#sucess{color:#FFF;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size:24px;
+background-color:#00F;
+text-transform:capitalize;}
+#employeeTable{
+	color:#F00;
+	font-size:14px;
+	text-transform:capitalize;
+	font-family:"Lucida Console", Monaco, monospace;}
+#assignTask{color:#F00;
+text-align:center;
+font-style:normal;
+font-family:"Comic Sans MS", cursive;
+text-transform:capitalize;}
+#assignTaskTable{color:#00F;
+text-align:center;
+font-style:normal;
+font-family:"Comic Sans MS", cursive;
+text-transform:capitalize;}
+#date{color:#00F;
+font-style:italic;
+font-size:9px;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+text-align:right;}
+#notice{
+	color:#00F;
+	background-color:#FFF;}
+#noticeno{
+	color:#F00;
+	font-family:"Comic Sans MS", cursive;}
